@@ -37,7 +37,7 @@
     // database details
     $host = "localhost";
     $username = "mysql";
-    $password = "Gasmaske123.";
+    $password = "";
     $dbname = "kunden_test";
 
     // creating a connection
